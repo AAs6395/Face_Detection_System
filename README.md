@@ -79,7 +79,6 @@ Face_Recognition_System/
 ## 🧪 Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/AAs6395/Face_Detection_System.git
 cd Face_Detection_System
 
