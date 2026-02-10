@@ -36,6 +36,10 @@ This project is designed as a **student-level AI + Web application** and is suit
 - JavaScript
 - Chart.js
 
+
+
+
+## 📁 Project Structure
 Face_Recognition_System/
 │
 ├── backend/
@@ -133,7 +137,4 @@ Graphic Era Hill University, Bhimtal
 
 
 
-
-
-## 📁 Project Structure
 
