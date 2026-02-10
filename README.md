@@ -1,6 +1,6 @@
-# Face Recognition System
+# Face Detection System
 
-A web-based **Face Recognition System** that detects and recognizes faces using a webcam and marks attendance automatically.  
+A web-based **Face Detection System** that detects and recognizes faces using a webcam and marks attendance automatically.  
 The system uses **Python, Flask, OpenCV, face_recognition, MySQL**, and a simple **HTML/CSS/JavaScript frontend**.
 
 This project is designed as a **student-level AI + Web application** and is suitable for academic projects, demonstrations, and learning purposes.
@@ -40,7 +40,7 @@ This project is designed as a **student-level AI + Web application** and is suit
 
 
 ## 📁 Project Structure
-Face_Recognition_System/
+Face_Detection_System/
 │
 ├── backend/
 │ ├── app.py # Main Flask application
