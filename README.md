@@ -101,7 +101,7 @@ python backend/app.py
 Open your browser and visit:
 http://127.0.0.1:5000/
 
-📊 Output
+## 📊 Output
 Real-time face recognition
 
 Automatic attendance marking
@@ -110,7 +110,7 @@ Attendance visualization (Pie Chart)
 
 Downloadable attendance report (CSV)
 
-🎓 Use Case
+##🎓 Use Case
 College attendance system
 
 AI & ML academic project
@@ -119,7 +119,7 @@ Face recognition learning project
 
 Web + AI integration demo
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 Face mask detection
 
 Multiple camera support
@@ -130,7 +130,7 @@ Admin login system
 
 Live deployment
 
-👨‍💻 Author
+## 👨‍💻 Author
 Aashish Joshi
 B.Tech CSE Student
 Graphic Era Hill University, Bhimtal
