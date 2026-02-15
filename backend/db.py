@@ -10,7 +10,7 @@ class DatabaseService:
             host="localhost",
             port="3306",
             user="root",
-            password="Ujjwalsql@2500",
+            password="aashish@1234",
             database="Test"
         )
 
@@ -156,4 +156,5 @@ class DatabaseService:
             conn.close()
             print("All tables cleared.")
         except Exception as e:
+
             print(f"clear_tables error: {e}")
